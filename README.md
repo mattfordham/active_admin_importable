@@ -2,6 +2,10 @@
 
 CSV imports for Active Admin with one line of code.
 
+## IMPORTANT NOTE
+
+*This fork of the gem will delete all entries in the specified model before importing. USE AT YOUR OWN RISK.*
+
 ## Installation
 
 Add this line to your application's Gemfile:
